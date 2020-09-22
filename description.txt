@@ -1,0 +1,18 @@
+StringExtractor
+===============
+
+Author: CodeXP
+Contact: CodeXP@Lycos.de
+
+Description:
+
+This App extracts Strings from binary files (like .EXE).
+You can search certain Strings that were found in binary file.
+
+(for example you can search some cheats in a game file,
+for what I also wrote it. Actually for own use :)
+
+How to use:
+drag'n'drop a file, that you would search for Strings,
+on the StringExtractor EXEcutable
+
